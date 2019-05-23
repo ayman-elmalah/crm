@@ -1,0 +1,20 @@
+*{font-family: cairo;}
+.form-actions{padding:20px;}
+.form-control{height:38px !important;}
+.application_line{padding:5px;}
+.application_line .heading{color:#0d6aad;font-weight: bold;}
+.application_certifications{padding:20px;border:1px solid #ccc;background-color: #fff;}
+.center{text-align: center;}
+textarea.form-control{height:auto !important;margin-bottom:20px;resize: vertical;}
+.thumb_image{width:50px;height:50px;border-radius: 50%;}
+.attachment_box{overflow: hidden;background-color: #fff;margin-bottom: 20px;}
+.attachment_box .attachment{max-width:100%;height: 170px;width: 100%;}
+.custom_pagination .pagination{margin: auto;display: table;margin-top:30px;}
+.timeline_comments:before{width:0 !important;}
+.timeline_comments{max-height: 400px;overflow-y: scroll;}
+.all_admins_action{border: 1px solid #ccc;padding: 5px;background-color: #fff;}
+.btn-reload{color: #fff !important;background: #aaabac !important;border-color: #716f76 !important;}
+.btn-print{color: #fff !important;background: #ac2925 !important;border-color: #761c19 !important;}
+.btn-excel{color: #fff !important;background: #36ac17 !important;border-color: #11760c !important;}
+.btn-actions{color: #fff !important;background: #1f858e !important;border-color: #18666d !important;}
+.thumb-image{width: 50px;height: 50px;border-radius: 50%;}
